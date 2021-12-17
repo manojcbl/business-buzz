@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'business_buzz' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'businessbuzzuser' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '4!RzwkzzvGeGzUFC' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
